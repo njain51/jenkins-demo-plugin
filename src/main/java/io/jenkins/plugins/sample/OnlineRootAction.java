@@ -1,6 +1,7 @@
 package io.jenkins.plugins.sample;
 
-// added root plugin
+// added root plugin action
+
 import hudson.Extension;
 import hudson.model.RootAction;
 
