@@ -4,7 +4,7 @@ Short-Name: jenkins-demo-plugin
 Long-Name: TODO Plugin
 Url: https://github.com/jenkinsci/jenkins-demo-plugin-plugin
 Minimum-Java-Version: 1.8
-Plugin-Version: 1.0-SNAPSHOT (private-02/21/2021 08:41-offic)
+Plugin-Version: 1.0-SNAPSHOT (private-cc27424f-offic)
 Hudson-Version: 2.235.1
 Jenkins-Version: 2.235.1
 Plugin-Dependencies: structs:1.20
